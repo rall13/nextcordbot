@@ -1,0 +1,2 @@
+# nextcordbot
+Nextcordbot
